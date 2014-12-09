@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/kevin/AndroidStudioProjects/SymphonicVortex/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-902f571e561123dcdf34d645b2f541ad9df3d266.jar"
+        jar="/home/kevin/AndroidStudioProjects/SymphonicVortex/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f"/>
+    <item
+        dex="/home/kevin/AndroidStudioProjects/SymphonicVortex/app/build/intermediates/pre-dexed/debug/classes-ed7e1d4190136d4e36e725af5ec66eb87ca2ba23.jar"
+        jar="/home/kevin/AndroidStudioProjects/SymphonicVortex/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3"/>
+    <item
+        dex="/home/kevin/AndroidStudioProjects/Vortex/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-8902fe5ff1993be18a81ec9d43a093779112940b.jar"
+        jar="/home/kevin/AndroidStudioProjects/Vortex/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f"/>
+    <item
+        dex="/home/kevin/AndroidStudioProjects/Vortex/app/build/intermediates/pre-dexed/debug/classes-55d7bdf3358a9b5f0cca867dd969a63a220d27df.jar"
+        jar="/home/kevin/AndroidStudioProjects/Vortex/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54"/>
+    <item
+        dex="/home/kevin/AndroidStudioProjects/SymphonicVortex/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-f927afab5315c207cf8a8674be5586dd4fdcf9a8.jar"
+        jar="/home/kevin/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6"/>
+    <item
+        dex="/home/kevin/AndroidStudioProjects/SymphonicVortex/app/build/intermediates/pre-dexed/debug/classes-84401d995fb66c699f0e5897b30b2655dee4efd6.jar"
+        jar="/home/kevin/AndroidStudioProjects/SymphonicVortex/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54"/>
+    <item
+        dex="/home/kevin/AndroidStudioProjects/Vortex/app/build/intermediates/pre-dexed/debug/classes-389d0ae00a26ffc3aae8fd42cd4f4664c0e5fb09.jar"
+        jar="/home/kevin/AndroidStudioProjects/Vortex/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3"/>
+
+</pre-dex-items>

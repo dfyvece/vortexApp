@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SymphonicVortex</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="start">Start</string>
+    <string name="introText">Choose audio file (.wav)...</string>
+    <string name="log">Log</string>
+    <string name="displayInfo">Display Audio Info</string>
+    <string name="clearAll">Clear</string>
+    <string name="spiral">Spiral</string>
+    <string name="revspiral">Reverse Spiral</string>
+
+    <string name="pulse">Pulse</string>
+    <string name="square">Square</string>
+
+</resources>
